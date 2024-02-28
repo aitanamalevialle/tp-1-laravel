@@ -1,0 +1,2 @@
+Ce TP a été réalisé dans le cadre du cours "Cadriciel Web". L'objectif était de créer un site Web avec Laravel visant à collecter des informations auprès des étudiants du Collège Maisonneuve. La première étape consiste à collecter les informations nécessaires, à remplir la base de données avec des données aléatoires, et à créer des interfaces fonctionnelles permettant de
+visualiser, saisir, mettre à jour et supprimer les informations des étudiants.
